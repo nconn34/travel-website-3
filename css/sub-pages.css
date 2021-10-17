@@ -1,4 +1,9 @@
 body {text-align: center;}
 body {background-color: lightblue;
-      opacity: 0.5;
+      font: Impact;
+}
+
+h1 {
+  color: forestgreen;
+  font-family: Impact;
 }
