@@ -2,3 +2,18 @@ body {text-align: center;}
 body {background-color: lightblue;
       opacity: 0.5;
 }
+
+h1 {
+  font-size: 200px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font: "Arial Narrow Bold";
+  font-weight: 900;
+  color: forestgreen;
+}
+
+h2 {
+  font-size:50px;
+  font:Impact;
+  font-weight: 900;
+  color: forestgreen;
+}
