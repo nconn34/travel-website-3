@@ -13,7 +13,7 @@
 
 ## Description
 
-_{You can find any lodging needs, restaurants worth considering, and information on how to see The Greek Freak in action.}_
+You can find any lodging needs, restaurants worth considering, and information on how to see The Greek Freak in action.
 
 ## Setup/Installation Requirements
 
